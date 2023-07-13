@@ -1,2 +1,4 @@
-# LH_CD
-O objetivo deste desafio é testar os seus conhecimentos sobre a resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos.
+# Desafio Cientista de Dados
+
+<div align="center">
+  <img src="asset/capa_github.png" width="450"/>
