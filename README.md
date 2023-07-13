@@ -23,7 +23,7 @@ Primeiro precisar abrir [Colab.Google](https://colab.research.google.com/) é um
 
 Nesse projeto será apresentado a biblioteca Pandas, uma biblioteca Python de código aberto para análise de dados do tipo planilha, permitindo carregar, manipular e combinar dados rapidamente,entre outras funções. 
 
-Os dataset iniciais estão disponibilizado na pasta src no formato csv. 
+Os dataset iniciais estão disponibilizado na pasta *src* no formato csv. 
 
 1. Um dataset para treinamento chamado cars_training composto por 29584 linhas, 28 colunas de informação (features) e a variável a ser prevista (“preco”). 
 
