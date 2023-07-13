@@ -31,17 +31,20 @@ Os dataset iniciais estão disponibilizado na pasta *src* no formato csv.
 
 
 
-As etapas incluem:
+As etapas da classificação incluem:
 
-1. Aquisição de dados.
+1. Preparação dos dados.
 
-2. Preparação de dados.
+2. Seleção do algoritmo.
 
-3. Carregar conjunto de dados.
+3. Treinamento do modelo.
 
-4. Treine o conjunto de dados.
+4. Ajuste do modelo (opcional): 
 
-5. Obtenha os pesos do modelo.
+5. Classificação.
 
-6. Teste o modelo.
+Essas etapas são apenas uma visão geral e podem variar dependendo do problema específico, dos dados disponíveis e do algoritmo escolhido. 
+
+# Desenvolvedor
+[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>*Kelly Silva* : Sou uma estudante de Ciências de Dados em busca de oportunidade para adquirir experiência na área de Ciências de Dados </sub>](https://github.com/KellyPLSilva) 
 
