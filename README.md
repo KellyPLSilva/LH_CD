@@ -44,9 +44,7 @@ As etapas da classificação incluem:
 5. Classificação.
 
 Essas etapas são apenas uma visão geral e podem variar dependendo do problema específico, dos dados disponíveis e do algoritmo escolhido. 
-
-# Desenvolvedor
-
-
-[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub><div align="center"> Sou estudante de Ciências de Dados em busca de oportunidade para adquirir experiência na área.  </sub>](https://github.com/KellyPLSilva) 
+## Desenvolvedor
+<div style="text-align: center;">
+<img src="https://avatars.githubusercontent.com/u/88354075?v=4"  width=115><br><sub><div align="center"></div> Sou estudante de Ciências de Dados em busca de oportunidade para adquirir experiência na área.  </sub></div>
 
