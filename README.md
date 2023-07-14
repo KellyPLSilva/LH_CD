@@ -46,5 +46,7 @@ As etapas da classificação incluem:
 Essas etapas são apenas uma visão geral e podem variar dependendo do problema específico, dos dados disponíveis e do algoritmo escolhido. 
 
 # Desenvolvedor
-[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub>*Kelly Silva* : Sou uma estudante de Ciências de Dados em busca de oportunidade para adquirir experiência na área de Ciências de Dados </sub>](https://github.com/KellyPLSilva) 
+
+
+[<img src="https://avatars.githubusercontent.com/u/88354075?v=4" width=115><br><sub><div align="center"> Sou estudante de Ciências de Dados em busca de oportunidade para adquirir experiência na área.  </sub>](https://github.com/KellyPLSilva) 
 
